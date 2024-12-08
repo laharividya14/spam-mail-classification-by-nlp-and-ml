@@ -1,18 +1,15 @@
-# SafeMailAI
+# Spam-mail -classification-by-nlp-and-ml
 
-SafeMailAI is a powerful email classification tool that leverages NLP and machine learning to protect your inbox from spam. With an intuitive interface built on Streamlit, it accurately identifies and filters spam, ensuring a secure and clutter-free email experience.
-
+This project demonstrates spam email classification using Natural Language Processing (NLP) and Machine Learning (ML) techniques. It includes data preprocessing, feature extraction, model training, and evaluation.
 
 ## Features
 
+- **Preprocessing**: Tokenization, stopword removal, lemmatization.
+- **Feature Extraction**: TF-IDF, Bag of Words.
+- **Models**: SVM, Naive Bayes, Random Forest.
+- **Evaluation**: Precision, Recall, F1-Score.
 - **Email Classification**: Enter an email and classify it as either Spam or Not Spam.
 - **Model Performance**: View accuracy, confusion matrix, and classification report on the dataset.
 - **User-Friendly Interface**: The result is displayed with a colored background to clearly indicate whether an email is Spam (red) or Not Spam (green).
 
-## Installation
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/spam-email-classifier.git
-cd spam-email-classifier
+##Happy coding

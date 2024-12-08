@@ -12,4 +12,4 @@ This project demonstrates spam email classification using Natural Language Proce
 - **Model Performance**: View accuracy, confusion matrix, and classification report on the dataset.
 - **User-Friendly Interface**: The result is displayed with a colored background to clearly indicate whether an email is Spam (red) or Not Spam (green).
 
-##Happy coding
+## Happy coding
